@@ -12,5 +12,6 @@ object AppShape{
 
     val roundedCorner16dp = RoundedCornerShape(16.dp)
     val roundedCorner24dp = RoundedCornerShape(24.dp)
+    val roundedCorner36dp = RoundedCornerShape(36.dp)
     val circleShape = CircleShape
 }
