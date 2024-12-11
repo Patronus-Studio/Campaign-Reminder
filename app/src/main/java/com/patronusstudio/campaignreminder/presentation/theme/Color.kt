@@ -24,6 +24,8 @@ object AppColor{
     val Transparent25 = Color(0x1AFFFFFF)
     val Transparent10 = Color(0x1AFFFFFF)
     val Blue = Color(0xFF03A9F4)
+    val BlueLight = Color(0xFF81D4FA)
+    val BlueVeryLight = Color(0xFFB3E5FC)
     val PinkCongo = Color(0xFFfc867c)
     val Red = Color(0xFFF44336)
 }
@@ -31,4 +33,6 @@ object AppColor{
 object TextColor{
 
     val Grey =  Color(0xFF495665)
+    val White =  Color(0xFFFFFFFF)
+    val DarkerBlue =  Color(0xFF39385A)
 }
